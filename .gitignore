@@ -1,0 +1,13 @@
+
+# Mac OS
+*.icloud
+*.DS_Store
+*.idea
+
+# Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Private constants
+env.py
+
